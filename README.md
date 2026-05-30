@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ali Rizwan 👋
 
-<!--
-**NeoQuantumForge/NeoQuantumForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at Air University passionate about technology, security, and building practical projects.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cybersecurity Fundamentals
+* Linux
+* Networking
+* C++
+* Cloud Computing
+
+## Areas of Interest
+
+* Penetration Testing
+* Cloud Security
+* Malware Analysis
+* Artificial Intelligence & Security
+
+## Goals for 2026
+
+* Build cybersecurity projects
+* Strengthen Linux and networking skills
+* Learn cloud security fundamentals
+* Contribute to open-source projects
+
+## Connect With Me
+
+* LinkedIn: Add your LinkedIn URL here
