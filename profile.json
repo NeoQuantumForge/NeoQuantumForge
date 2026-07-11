@@ -1,0 +1,115 @@
+{
+  "github": {
+    "username": "NeoQuantumForge",
+    "token_env_var": "GITHUB_TOKEN"
+  },
+  "identity": {
+    "display_name": "Ali Rizwan",
+    "role": "Cyber Security Student",
+    "tagline": "Securing systems, one repo at a time.",
+    "location": "Pakistan",
+    "website": "",
+    "current_focus": "Cyber Security & Automation"
+  },
+  "photo": {
+    "path": "assets/photo.jpg"
+  },
+  "social_links": {
+    "github": "https://github.com/NeoQuantumForge",
+    "linkedin": "https://www.linkedin.com/in/ali-rizwan-151450396/",
+    "twitter": "",
+    "website": ""
+  },
+  "theme": {
+    "name": "neoquantum-dark",
+    "background": "#0d1117",
+    "panel_background": "#161b22",
+    "border": "#30363d",
+    "text_primary": "#c9d1d9",
+    "text_secondary": "#8b949e",
+    "accent": "#58a6ff",
+    "accent_dim": "#1f6feb",
+    "success": "#3fb950",
+    "font_family": "'JetBrains Mono', 'Fira Code', 'Consolas', monospace"
+  },
+  "animation": {
+    "boot_speed_ms": 220,
+    "typing_speed_ms": 55,
+    "ascii_reveal_speed_ms": 18,
+    "heatmap_reveal_speed_ms": 12,
+    "fade_duration_ms": 600
+  },
+  "dashboard": {
+    "widgets": [
+      "name",
+      "role",
+      "followers",
+      "stars",
+      "public_repos",
+      "pinned_projects",
+      "featured_projects",
+      "top_languages",
+      "latest_repository",
+      "current_focus",
+      "website",
+      "location",
+      "last_updated"
+    ],
+    "pinned_repositories": ["airport-management", "linkedin-automation", "hotel-management"],
+    "featured_repositories": [],
+    "max_top_languages": 5
+  },
+  "ascii": {
+    "charset": "@#%*+=-:. ",
+    "columns": 70,
+    "font_size": 6,
+    "line_height": 7,
+    "contrast": 1.25,
+    "gamma": 1.0,
+    "brightness": 1.05,
+    "remove_background": true,
+    "reveal_speed_ms": 18
+  },
+  "terminal": {
+    "prompt": "NeoQuantumForge@github:~$",
+    "typing_speed_ms": 45,
+    "commands": [
+      {
+        "cmd": "boot",
+        "output": ["Initializing...", "Ready."]
+      },
+      {
+        "cmd": "whoami",
+        "output": ["{display_name}", "{role}"]
+      },
+      {
+        "cmd": "projects",
+        "output": "auto:pinned_repositories"
+      },
+      {
+        "cmd": "skills",
+        "output": ["Python", "C++", "Docker", "Linux", "Git"]
+      },
+      {
+        "cmd": "languages",
+        "output": "auto:languages"
+      },
+      {
+        "cmd": "help",
+        "output": ["boot, whoami, projects, skills, languages, contact, help"]
+      }
+    ]
+  },
+  "layout": {
+    "width": 900,
+    "ascii_panel_width": 360,
+    "dashboard_panel_width": 500,
+    "terminal_height": 260,
+    "heatmap_height": 180,
+    "mobile_breakpoint": 600
+  },
+  "output": {
+    "assets_dir": "assets",
+    "readme_path": "README.md"
+  }
+}

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="350" viewBox="0 0 500 350" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace">
+  <defs/>
+  <rect x="0" y="0" width="500" height="350" fill="#161b22" stroke-width="1" rx="10" opacity="1"/>
+  <rect x="0" y="0" width="500" height="350" fill="none" stroke="#30363d" stroke-width="1" rx="10" opacity="1"/>
+  <g opacity="1" id="dashboard-header">
+    <text x="18" y="26" fill="#58a6ff" font-size="12" font-weight="bold" text-anchor="start" letter-spacing="1.5" opacity="1" xml-space="preserve">
+      LIVE DASHBOARD
+    </text>
+  </g>
+  <line x1="18" y1="36" x2="482" y2="36" stroke="#30363d" stroke-width="1" opacity="1"/>
+  <g opacity="1" id="dashboard-rows">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.15s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="58.0" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        NAME
+      </text>
+      <text x="210" y="58.0" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        Ali Rizwan
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.23s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="80.61538461538461" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        ROLE
+      </text>
+      <text x="210" y="80.61538461538461" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        Cyber Security Student
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.31s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="103.23076923076923" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        FOLLOWERS
+      </text>
+      <text x="210" y="103.23076923076923" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        0
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.39s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="125.84615384615385" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        TOTAL STARS
+      </text>
+      <text x="210" y="125.84615384615385" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        1
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.47s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="148.46153846153845" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        PUBLIC REPOS
+      </text>
+      <text x="210" y="148.46153846153845" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        5
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.55s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="171.0769230769231" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        PINNED
+      </text>
+      <text x="210" y="171.0769230769231" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        airport-management, linkedin-auto…
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.63s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="193.6923076923077" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        FEATURED
+      </text>
+      <text x="210" y="193.6923076923077" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        airport-management, linkedin-auto…
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.71s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="216.30769230769232" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        TOP LANGUAGES
+      </text>
+      <text x="210" y="216.30769230769232" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        HTML, C++
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.79s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="238.92307692307693" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        LATEST REPO
+      </text>
+      <text x="210" y="238.92307692307693" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        Linkedin-ai-automation
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.87s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="261.53846153846155" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        CURRENT FOCUS
+      </text>
+      <text x="210" y="261.53846153846155" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        Cyber Security &amp; Automation
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.95s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="284.1538461538462" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        WEBSITE
+      </text>
+      <text x="210" y="284.1538461538462" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        —
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.03s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="306.7692307692308" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        LOCATION
+      </text>
+      <text x="210" y="306.7692307692308" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        Islamabad, Pakistan
+      </text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.11s" fill="freeze" repeatCount="1"/>
+      <text x="18" y="329.3846153846154" fill="#8b949e" font-size="10.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" letter-spacing="0.5" opacity="1" xml-space="preserve">
+        LAST UPDATED
+      </text>
+      <text x="210" y="329.3846153846154" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="&apos;JetBrains Mono&apos;, &apos;Fira Code&apos;, &apos;Consolas&apos;, monospace" text-anchor="start" opacity="1" xml-space="preserve">
+        2026-07-11 15:31 UTC
+      </text>
+    </g>
+  </g>
+</svg>

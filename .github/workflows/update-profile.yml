@@ -1,0 +1,67 @@
+name: Update NeoQuantumForge Profile
+
+on:
+  schedule:
+    # Runs daily at 05:00 UTC
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "profile.json"
+      - "assets/photo.jpg"
+      - "assets/photo.png"
+      - "scripts/**"
+      - "main.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neoquantumforge-profile-update
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore cache directory
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: neoquantumforge-cache-${{ github.run_id }}
+          restore-keys: |
+            neoquantumforge-cache-
+
+      - name: Build profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "neoquantumforge-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md assets/ cache/ data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: automated profile refresh [skip ci]"
+            git push
+          fi
