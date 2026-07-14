@@ -44,26 +44,26 @@
       Linkedin-ai-automation
       <animate attributeName="opacity" values="0;1" dur="0.2s" begin="6.97s" fill="freeze" repeatCount="1"/>
     </text>
-    <text x="16" y="184.8" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
-      privacy
-      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="7.32s" fill="freeze" repeatCount="1"/>
+    <text x="16" y="191.20000000000002" fill="#58a6ff" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
+      NeoQuantumForge@github:~$ skills
+      <animate attributeName="opacity" values="0;1" dur="0.1s" begin="7.57s" fill="freeze" repeatCount="1"/>
     </text>
-    <text x="16" y="200.8" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
-      4-Way-Traffic-Signal-DLD
-      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="7.67s" fill="freeze" repeatCount="1"/>
+    <text x="16" y="207.20000000000002" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
+      Python
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="9.16s" fill="freeze" repeatCount="1"/>
     </text>
-    <text x="16" y="216.8" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
-      Hotel-Management-System
-      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="8.02s" fill="freeze" repeatCount="1"/>
+    <text x="16" y="223.20000000000002" fill="#c9d1d9" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
+      C++
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="9.51s" fill="freeze" repeatCount="1"/>
     </text>
-    <text x="16" y="239.20000000000002" fill="#58a6ff" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
+    <text x="16" y="245.60000000000002" fill="#58a6ff" font-size="11.5" font-weight="normal" font-family="monospace" text-anchor="start" opacity="0" xml-space="preserve">
       NeoQuantumForge@github:~$
-      <animate attributeName="opacity" values="0;1" dur="0.1s" begin="8.62s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" values="0;1" dur="0.1s" begin="10.11s" fill="freeze" repeatCount="1"/>
     </text>
-    <rect x="204.0" y="228.20000000000002" width="7" height="13" fill="#58a6ff" stroke-width="1" rx="0" opacity="0">
+    <rect x="204.0" y="234.60000000000002" width="7" height="13" fill="#58a6ff" stroke-width="1" rx="0" opacity="0">
       <animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="0s" fill="remove" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1" dur="0.1s" begin="8.62s" fill="freeze" repeatCount="1"/>
-      <animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="8.62s" fill="remove" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1" dur="0.1s" begin="10.11s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="10.11s" fill="remove" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>
